@@ -1,7 +1,7 @@
 zenlikes.men API
 ========
 
-`zenlikes.men` is a site specialising in detection if Zen likes Men. We currently have 99.9999% uptime, and hope to never go below.
+`zenlikes.men` is a site specialising in detection if Zen likes Men. We currently have 99.9999% uptime and hope to never go below.
 
 Backstory
 --------
