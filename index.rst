@@ -15,7 +15,7 @@ Contribute
 ----------
 
 - Issue Tracker: github.com/joscomputing/api.zenlikes.men/issues
-- Source Code: github.com/joscomputing/api.zenlikes.men/issues
+- Source Code: github.com/joscomputing/api.zenlikes.men
 
 Support
 -------
